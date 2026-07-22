@@ -9,7 +9,7 @@ return(
 
 <div className="main">
 
-<h1>JARVIS AI</h1>
+<h1>JARVIS AII</h1>
 
 <Avatar/>
 
